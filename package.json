@@ -1,0 +1,13 @@
+{
+  "name": "ohg-connector",
+  "version": "1.0.1",
+  "description": "A simple API connector for OpenHG",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "mqtt": "^4.2.6"
+  },
+  "devDependencies": {
+    "@types/node": "^15.0.2"
+  }
+}
